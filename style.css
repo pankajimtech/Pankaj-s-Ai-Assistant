@@ -1,0 +1,14 @@
+.headerr {
+    background-color:#002A53;
+    color: lightcyan;
+    padding:1px;
+    margin:5px;
+}
+
+body {
+   /* background:linear-gradient(to right,#002A53,blue, #f5c207, #faefc5, #f5c207, blue,#002A53 );
+    text-align: center; */
+    background-color: lightcyan;
+    text-align: center;
+    font-size: 20px;
+}
